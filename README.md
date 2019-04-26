@@ -1,2 +1,2 @@
 # linux-commands
-Alinux command cheatsheet because I'm a linux noob
+A linux command cheatsheet because I'm a linux noob
